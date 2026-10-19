@@ -1,15 +1,7 @@
-# Bewerbung als Marketingmanager – VR-Bank NordRhön eG
+# Bewerbung offline
 
-Persönliche Bewerbungswebsite von Sascha Boss für die Position **Marketingmanager (m/w/d)** am Standort Hünfeld.
+Die Bewerbungswebsite wurde am 19. Oktober 2026 auf Wunsch des Inhabers offline genommen.
 
-## Inhalt
+Der vollständige Quellstand liegt im Branch `archive/pre-offline-2026-10-19` und bleibt außerdem in der Git-Historie erhalten.
 
-- auf die Stellenanzeige zugeschnittene Bewerbungsseite
-- fokussierter Online-Lebenslauf
-- ausgewählte BSH-Arbeitsproben als PDF
-- separate Vorlage für die Bewerbungs-E-Mail
-
-## Veröffentlichung
-
-Die Website ist statisch und wird per GitHub Actions auf GitHub Pages unter
-`https://bewerbung-vr-bank-nordrhoen.saschaboss.de/` veröffentlicht. Einstiegspunkt ist `index.html`.
+Zur Wiederveröffentlichung den gewünschten Quellstand aus dem Archiv in `main` wiederherstellen. Der aktuelle Hauptbranch veröffentlicht ausschließlich eine 404-Seite; Bewerbung, Lebenslauf und Arbeitsproben sind daraus entfernt.
